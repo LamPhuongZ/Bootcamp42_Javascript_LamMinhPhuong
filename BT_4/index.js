@@ -11,6 +11,6 @@ DIEN_TICH = CHIEU_DAI * CHIEU_RONG;
 CHU_VI = (CHIEU_DAI + CHIEU_RONG) * 2;
 
 console.log("Diện tích hình chữ nhật: ", DIEN_TICH);
-console.log("Chu vi hình chữ nhật: ", CHU_VI);
+console.log("Chu vi hình chữ nhật: ", CHU_VI); 
 
 
